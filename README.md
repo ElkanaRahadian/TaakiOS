@@ -5,6 +5,7 @@
 
 # Tech
 • UI elements implemented:
+
 • UIKit, UIStoryboard, Storyboard Reference, UIView Controller, Segue, TableView, textfield, uidatepicker
 
 # Design
