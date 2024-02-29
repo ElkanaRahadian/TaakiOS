@@ -1,3 +1,7 @@
+<p align="center">
+  <img height="500" src="/Mini 1 - Taak iOS App.jpeg">
+</p>
+
 # Taak iOS App
 • An iOS app is intended for undergraduates to focus on and visualize tasks that need to be done. This encourages undergraduates to focus on ongoing tasks with key features such as task countdown and time blocking. It also provides gamification elements with progress displays and rewards that could trigger a sense of achievement in their journey to prevent procrastination.
 
