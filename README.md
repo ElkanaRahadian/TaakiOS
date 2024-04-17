@@ -8,7 +8,7 @@
 • The app has key features such as time blocking to help block their phone notifications and other applications (social media, games), a countdown as a timer to focus on doing their task, and a reward system (achievable digital badges and progress display) to give them points when success is focused on a certain time. This is a solution to the challenge because it helps undergraduates focus and visualize their task.
 
 # Tech
-• UI elements implemented:
+The implemented tech in this application includes:
 
 • UIKit, UIStoryboard, Storyboard Reference, UIView Controller, Segue, TableView, textfield, uidatepicker
 
