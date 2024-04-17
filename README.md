@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="500" src="/Mini 1 - Taak iOS App.jpeg">
+  <img height="500" src="/TaakiOSApp.jpeg">
 </p>
 
 # Taak iOS App
