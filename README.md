@@ -23,8 +23,8 @@ The implemented tech in this application includes:
 - UIDatePicker
 
 # Design
-- Why the monochromatic color? We want to limit the color palette to avoid users being distracted.
+- Why the monochromatic color? To limit the color palette to avoid users being distracted.
 
-- Why blue: According to our research, blue encourages a feeling of calmness and boosts productivity and concentration.
+- Why blue: According to research, blue encourages a feeling of calmness and boosts productivity and concentration.
 
-- Why gradients: Gradients help increase a relaxed feeling or a soothing mood, as gradients are colors that appear in nature. 
+- Why gradients: They enhance a relaxed or soothing mood by mimicking natural color transitions.
