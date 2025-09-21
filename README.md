@@ -2,7 +2,7 @@
   <img height="500" src="/TaakiOSApp.jpeg">
 </p>
 
-# Taak iOS Ap
+# Taak iOS App
 Visualise, Focus, Finish
 
 # Overview
