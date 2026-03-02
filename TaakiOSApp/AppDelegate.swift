@@ -1,4 +1,4 @@
-import UIKit
+import UIKi
 import CoreData
 
 @main
